@@ -1,2 +1,2 @@
 # statehook-tutor
-useState function
+useState
